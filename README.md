@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Nelly 👋
+![ProfileGitHUB](https://user-images.githubusercontent.com/110078021/181661894-9c9be91e-fe5a-43f2-b4c3-7624b44ca2bd.png)
+
 
 <!--
 **Nelly-CZ/Nelly-CZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
