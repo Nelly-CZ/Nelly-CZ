@@ -7,6 +7,6 @@ Something about me:
 
 Find me around the web :earth_americas::
 - [Facebook](https://www.facebook.com/zulamita.curozamorano)
-- [LinkedIn](linkedin.com/in/nelly-curo-zamorano-298bab231)
+- [LinkedIn](https://www.linkedin.com/in/nelly-curo-zamorano/)
 - [Email](sulan.c.z@gmail.com)
   
