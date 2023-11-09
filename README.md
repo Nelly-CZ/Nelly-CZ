@@ -2,8 +2,8 @@
 
 Something about me:
 
-- 🔭 I’m currently working freelance
-- 🌱 I’m currently learning Programming whit Python, Data Analytics, Database Management.
+- 🔭 I’m currently working freelance on Data Analytics Projects.
+- 🌱 I’m currently learning Machine Learning whit Python, Data Analytics, Database Management.
 
 Find me around the web :earth_americas::
 - [Facebook](https://www.facebook.com/zulamita.curozamorano)
